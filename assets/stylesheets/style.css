@@ -1,0 +1,203 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+}
+#container
+{
+    width: 1920px;
+    height: 2980px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+#topbar
+{
+    position: fixed;
+    top: 0;
+    height: 55px;
+    width: 1920px;
+}
+
+#logo
+{
+    width: 300px;
+    float: left;
+    font-size: 30px;
+}
+
+
+#options 
+{
+     margin-top: auto;
+     margin-bottom: auto;
+     margin-right: 30px;
+     float: right;  
+}
+
+#options a
+{ 
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 20px;
+}
+
+
+#content
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer
+{
+    
+    height: 100px;
+    background-color: rgb(0, 153, 255);
+}
+#phone
+{
+    
+    float: left;
+}
+
+#email
+{
+    clear: both;
+    float: left;
+}
+
+#address
+{
+    clear: both;
+    float: left;
+}
+
+#copyright
+{
+    width: 960px;
+    margin-bottom: 0px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    
+}
+
+#simple
+{
+    width: 1920px; 
+    height: 1080px;
+    background-image: url(../images/sea.jpg);
+    
+}
+
+#fast
+{
+    width: 1920px; 
+    height: 1080px;
+    background-image: url(../images/coffee.jpg); 
+}
+
+#contentSimple
+{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 40px;
+}
+
+#contentFast
+{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 40px;
+}
+
+#inf
+{
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    width: 440px;
+    height: 600px;
+}
+
+#down
+{
+    width: 1920px;
+    height: 130px;
+    background-color: rgb(39, 39, 39);
+    color: white;
+}
+
+#mailing 
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    text-align: center;
+    
+}
+
+
+#mailing a
+{
+    font-size: 40px;
+    color:white;
+}
+
+#map
+{
+    height: 600px; 
+}
+
+#infoMap
+{
+    background-color: rgb(39, 39, 39);
+    width: 960px;
+    height: 600px;   
+    float: left;
+}
+
+#googleMap
+{
+    width: 960px;
+    height: 600px; 
+    float: left;
+}
+
+#mapAbout
+{
+    font-size: 25px;
+    float: right;
+    width: 500px;
+    height: 600px; 
+}
+
+#mapAbout a
+{
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(0, 153, 255);
+}
+
+
+
+
+
+
+
+
+
